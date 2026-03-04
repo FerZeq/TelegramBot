@@ -1,0 +1,1 @@
+\copy WORDS FROM 'введите путь' DELIMITER ',' CSV HEADER;
